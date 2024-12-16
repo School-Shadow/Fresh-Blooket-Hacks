@@ -177,7 +177,7 @@
             userSelect: "text"
         },
         innerHTML: "GitHub - DevShadows",
-        onclick: () => window.open("https://github.com/DannyDan0167/Blooket-Cheats-Plus", "_blank").focus()
+        onclick: () => window.open("https://github.com/DevShadows/Fresh-Blooket-Hacks", "_blank").focus()
     }), $ = l("div", {
         id: "controlButtons",
         style: {
